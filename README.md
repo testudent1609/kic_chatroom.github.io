@@ -20,7 +20,7 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-[https://weberi.github.io/kic_chatroom.github.io](https://testudent1609.github.io/kic_chatroom.github.io)
+[https://testudent1609.github.io/kic_chatroom.github.io](https://testudent1609.github.io/kic_chatroom.github.io)
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
